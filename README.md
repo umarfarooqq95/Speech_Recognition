@@ -9,9 +9,9 @@ Above given files can be refferenced while understanding the different concepts 
 and implemented convolutional neural network on it for all classification. The data used for this classification was audio files of different 
 musical instruments.
 
-2.In plot_ICA files, dicusses ICA the different differentiate speaks in a audio files.
+2. In plot_ICA files, dicusses ICA the different differentiate speaks in a audio files.
 
-3.Algorithm like Cocktail-Party can be used for speech tagging. Advance new method which uses CNNs can als be used for better accuracy.
+3. Algorithm like Cocktail-Party can be used for speech tagging. Advance new method which uses CNNs can als be used for better accuracy.
 
-4.File named Training_40_30k uses WSJ phoneme data from Prof.Bhiksha Raj sir class. We applied a method called contexting to increase accuracy during classification of different phonemes.
+4. File named Training_40_30k uses WSJ phoneme data from Prof.Bhiksha Raj sir class. We applied a method called contexting to increase accuracy during classification of different phonemes.
 
