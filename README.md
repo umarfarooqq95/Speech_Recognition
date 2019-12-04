@@ -8,6 +8,9 @@ Above given files can be refferenced while understanding the different concepts 
 1. In audio_preprocessing.ipynb and Modelling_audio_classification, we used techniques to extract mfcc features from audio files
 and implemented convolutional neural network on it for all classification. The data used for this classification was audio files of different 
 musical instruments.
+
 2.In plot_ICA files, dicusses ICA the different differentiate speaks in a audio files.
+
 3.Algorithm like Cocktail-Party can be used for speech tagging. Advance new method which uses CNNs can als be used for better accuracy.
+
 4.
