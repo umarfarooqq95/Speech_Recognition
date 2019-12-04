@@ -15,3 +15,4 @@ musical instruments.
 
 4. File named Training_40_30k uses WSJ phoneme data from Prof.Bhiksha Raj sir class. We applied a method called contexting to increase accuracy during classification of different phonemes.
 
+5. Read this blog to understand the concept of MFCC. http://practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/
