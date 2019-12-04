@@ -13,4 +13,5 @@ musical instruments.
 
 3.Algorithm like Cocktail-Party can be used for speech tagging. Advance new method which uses CNNs can als be used for better accuracy.
 
-4.
+4.File named Training_40_30k uses WSJ phoneme data from Prof.Bhiksha Raj sir class. We applied a method called contexting to increase accuracy during classification of different phonemes.
+
