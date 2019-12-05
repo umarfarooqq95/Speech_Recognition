@@ -20,5 +20,5 @@ and implemented convolutional neural network on it for all phoneme classificatio
 It also dicusses algorithms like Hidden Markovs Model and RNNs which are the building blocks of any ASR(Automatic Speech Recognition) system.
 https://youtu.be/gMQyGASOZO0
 
-7.Also, go through my notes to understand ASR and mfccs.
+7.Also, go through MFCC_notes  to understand ASR and mfccs.
 
